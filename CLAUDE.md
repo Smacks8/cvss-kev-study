@@ -27,6 +27,7 @@ for CVEs published 2019-2023?
 ## Files
 - `01_build_dataset.py` builds `data/cve_analysis.csv` from raw KEV + NVD (see README.md).
 - `data/cve_analysis.csv` is the frozen analysis table; later scripts read only this.
+- `DATA_DICTIONARY.md` explains every column of the CSV.
 - Planned next: `02_models.py` (RQ1 + RQ2), `03_survival.py` (RQ3), robustness checks.
 
 ## How Sai wants help

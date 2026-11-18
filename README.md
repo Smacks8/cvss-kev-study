@@ -27,6 +27,8 @@ in this repository; `cve_analysis.csv` is, so later steps run without it.
 
 ## Columns in cve_analysis.csv
 
+Full legend with sources and a worked example: [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
+
 | Column | Meaning |
 | --- | --- |
 | cve | The flaw's ID |
