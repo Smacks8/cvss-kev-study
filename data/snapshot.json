@@ -1,0 +1,10 @@
+{
+  "kev_file_sha256": "85f484aba48c592c113722cb3e17e768fb5bd2f8f8ee7c548a2ed471e44efb85",
+  "kev_rows_total": 1779,
+  "kev_latest_dateAdded": "2026-11-10",
+  "nvd_mirror": "https://github.com/fkie-cad/nvd-json-data-feeds",
+  "nvd_mirror_commit": "419ce8dac7a365849e91139f2e24bf4bddd7a048",
+  "rows": 99031,
+  "kev_in_rows": 784,
+  "y_365_positives": 664
+}
